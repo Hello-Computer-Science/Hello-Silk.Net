@@ -7,7 +7,7 @@ Console.WriteLine("Hello, Silk.Net!");
 var options = WindowOptions.Default with
 {
     Size = new Vector2D<int>(800, 600),
-    Title = "My first Silk.NET application!"
+    Title = "Hello.Silk.Net.WindowUsage"
 };
 
 var window = Window.Create(options);
